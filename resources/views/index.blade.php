@@ -3,7 +3,7 @@
 @section('content')
 
 
-    hola del index
+    hola del index xd
 
 
 @endsection
